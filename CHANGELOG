@@ -1,3 +1,7 @@
+Version 2.5.0 (2020-10-08)
+--------------------------
+Vendasta removed SQL Lite 3 storage option
+
 Version 2.4.0 (2020-10-07)
 --------------------------
 Add ability to set Subject per event (#50)
